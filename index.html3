@@ -1,207 +1,0 @@
-<!DOCTYPE html>
-<html lang="fa" dir="rtl">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>آموزش دروس پایه هشتم | علوم هشتم</title>
-    <style>
-        body {
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-            margin: 0;
-            padding: 0;
-            background-color: #f9f9f9;
-            color: #333;
-            line-height: 1.6;
-        }
-        header {
-            background: linear-gradient(135deg, #6a11cb 0%, #2575fc 100%);
-            color: white;
-            padding: 20px 0;
-            text-align: center;
-        }
-        nav {
-            background-color: #333;
-            overflow: hidden;
-        }
-        nav a {
-            float: right;
-            display: block;
-            color: white;
-            text-align: center;
-            padding: 14px 20px;
-            text-decoration: none;
-        }
-        nav a:hover {
-            background-color: #ddd;
-            color: black;
-        }
-        .container {
-            width: 80%;
-            margin: auto;
-            overflow: hidden;
-            padding: 20px;
-        }
-        .section {
-            padding: 40px 0;
-            border-bottom: 1px solid #ddd;
-        }
-        .testimonial {
-            background: white;
-            padding: 20px;
-            margin: 20px 0;
-            border-radius: 10px;
-            box-shadow: 0 0 10px rgba(0,0,0,0.1);
-        }
-        .subject-card {
-            background: white;
-            padding: 20px;
-            margin: 15px 0;
-            border-radius: 10px;
-            box-shadow: 0 0 10px rgba(0,0,0,0.1);
-        }
-        .question {
-            background: #e8f4f8;
-            padding: 15px;
-            margin: 10px 0;
-            border-radius: 8px;
-            border-right: 4px solid #2575fc;
-        }
-        .answer {
-            background: #f0f8f0;
-            padding: 15px;
-            margin: 10px 0;
-            border-radius: 8px;
-            border-right: 4px solid #28a745;
-        }
-        footer {
-            background: #333;
-            color: white;
-            text-align: center;
-            padding: 20px 0;
-            margin-top: 20px;
-        }
-        @media (max-width: 768px) {
-            .container {
-                width: 95%;
-            }
-        }
-    </style>
-</head>
-<body>
-    <header>
-        <h1>آموزش تخصصی دروس پایه هشتم</h1>
-        <p>مشاوره و تدریس خصوصی تمام دروس پایه هشتم</p>
-    </header>
-
-    <nav>
-        <a href="#science">علوم هشتم</a>
-        <a href="#subjects">دروس</a>
-        <a href="#methods">روش تدریس</a>
-        <a href="#contact">تماس با ما</a>
-    </nav>
-
-    <div class="container">
-        <section id="science" class="section">
-            <h2>📚 پاسخ سوالات علوم هشتم</h2>
-            
-            <div class="question">
-                <h3>✅ کدام یک محلول گاز در مایع است؟</h3>
-                <p>هوای پاک ❌ (این محلول گاز در گاز است)<br>
-                پاسخ صحیح: نوشابه گازدار (CO₂ در آب)</p>
-            </div>
-
-            <div class="question">
-                <h3>✅ کدام یک از گزینه های زیر یک مخلوط ناهمگن می باشد؟</h3>
-                <p>غذا در خون ✅</p>
-            </div>
-
-            <div class="question">
-                <h3>✅ کدام یک مخلوط ناهمگن سوسپانسیون می باشد؟</h3>
-                <p>شربت خاکشیر ✅</p>
-            </div>
-
-            <div class="question">
-                <h3>✅ کدام جمله صحیح تر است؟</h3>
-                <p>هوای پاک نیز نوعی محلول است. ✅</p>
-            </div>
-
-            <div class="question">
-                <h3>✅ کدام یک مخلوط معلق جامد در گاز است؟</h3>
-                <p>دوده در هوا ✅</p>
-            </div>
-
-            <div class="question">
-                <h3>✅ از بین مواد زیر کدام مخلوط می باشد؟</h3>
-                <p>شربت آب لیمو ✅</p>
-            </div>
-
-            <div class="question">
-                <h3>✅ کدام عامل انحلال پذیری گاز دی اکسید کربن در آب را افزایش می دهد؟</h3>
-                <p>افزایش فشار و کاهش دما ✅</p>
-            </div>
-
-            <div class="question">
-                <h3>✅ هوای یک شهر در کدام دسته قرار می گیرد؟</h3>
-                <p>مخلوط ناهمگن ✅ (به دلیل وجود ذرات آلاینده)</p>
-            </div>
-
-            <div class="question">
-                <h3>✅ کدام حلال برای پاک کردن چربی مناسب است؟</h3>
-                <p>استون ✅</p>
-            </div>
-
-            <div class="question">
-                <h3>✅ کدام ماده خالص است؟</h3>
-                <p>نیتروژن ✅</p>
-            </div>
-
-        </section>
-
-        <section id="subjects" class="section">
-            <h2>📚 دروس پایه هشتم</h2>
-            
-            <div class="subject-card">
-                <h3>📐 ریاضی هشتم</h3>
-                <p>آموزش مفهومی ریاضی با حل تمرینات متنوع</p>
-            </div>
-
-            <div class="subject-card">
-                <h3>🔬 علوم هشتم</h3>
-                <p>آموزش همراه با آزمایش‌های مجازی و تصویری</p>
-            </div>
-
-            <div class="subject-card">
-                <h3>📚 فارسی هشتم</h3>
-                <p>آموزش ادبیات و نگارش به شیوه خلاقانه</p>
-            </div>
-
-            <div class="subject-card">
-                <h3>🌍 مطالعات اجتماعی</h3>
-                <p>آموزش با استفاده از نقشه و تصاویر آموزشی</p>
-            </div>
-        </section>
-
-        <section id="methods" class="section">
-            <h2>🎯 روش‌های تدریس ما</h2>
-            <ul>
-                <li>تدریس مفهومی و ساده کردن مطالب پیچیده</li>
-                <li>استفاده از فیلم‌های آموزشی و انیمیشن</li>
-                <li>حل نمونه سوالات امتحانی</li>
-                <li>برنامه‌ریزی درسی شخصی‌سازی شده</li>
-                <li>پشتیبانی آنلاین خارج از ساعات کلاس</li>
-            </ul>
-        </section>
-
-        <section id="contact" class="section">
-            <h2>📞 تماس با ما</h2>
-            <p>برای ثبت نام در کلاس‌ها و مشاوره رایگان:</p>
-            <p>📞 تلفن: ۰۹۱۲XXX۳۴۵۶</p>
-            <p>📧 ایمیل: teacher8grade@email.com</p>
-        </section>
-    </div>
-
-    <footer>
-        <p>© ۲۰۲۴ - آموزش تخصصی دروس پایه هشتم | پاسخ سوالات علوم</p>
-    </footer>
-</body>
-</html>
